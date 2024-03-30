@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-simple-form/static/css/main.7e726ae2.css",
+    "main.js": "/React-simple-form/static/js/main.3632dfec.js",
+    "index.html": "/React-simple-form/index.html",
+    "main.7e726ae2.css.map": "/React-simple-form/static/css/main.7e726ae2.css.map",
+    "main.3632dfec.js.map": "/React-simple-form/static/js/main.3632dfec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e726ae2.css",
+    "static/js/main.3632dfec.js"
+  ]
+}
